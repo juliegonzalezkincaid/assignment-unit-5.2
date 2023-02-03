@@ -1,0 +1,15 @@
+header {
+    text-align: center;
+    background-color: teal;
+    color: white;
+    padding: 12px 32px;
+    font-weight: 500;
+}
+
+body {
+    background-color: lightgrey;
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0;
+    padding: 1em;
+}
